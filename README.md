@@ -7,7 +7,7 @@
 :--- | :--- | :---
 **Des Holmes** | **Ben Bishop** | **John Kilpatrick**
 [@whodadada](https://twitter.com/whodadada) | [@BenBish0p](https://twitter.com/BenBish0p) | [@jjkilpatrick](https://twitter.com/jjkilpatrick)
-[desholmes](https://github.com/desholmes) | [https://github.com/bish0p86](https://github.com/bish0p86) | [jjkilpatrick](https://github.com/jjkilpatrick)
+[desholmes]https://github.com/KalyanBojanapu | [https://github.com/bish0p86](https://github.com/bish0p86) | [jjkilpatrick](https://github.com/jjkilpatrick)
 [http://dholmes.co.uk/](http://dholmes.co.uk/) |  | [https://medium.com/@jjkilpatrick](https://medium.com/@jjkilpatrick)
 
 **Brief description of your hack**
